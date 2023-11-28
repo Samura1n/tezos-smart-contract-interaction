@@ -1,4 +1,4 @@
-# tezos-smart-contract-interaction  
+# tezos-smart-contract-interaction   
 The tezos-smart-contract-interaction script simplifies interactions with smart contracts on the Tezos blockchain, offering a user-friendly interface for executing custom transactions and querying contract data.
 Leveraging the PyTezos library, this script enables users to originate smart contracts, invoke contract entry points, and retrieve contract storage information. It serves as a practical foundation for developers and enthusiasts engaging with Tezos smart contracts.
 
